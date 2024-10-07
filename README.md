@@ -6,7 +6,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>CS114.L21 - MÁY HỌC</b></h1>
+<h1 align="center"><b>CS114.P11 - MÁY HỌC</b></h1>
 
 ## Thông tin sinh viên
 * **Họ và tên:** Đặng Vĩnh Hội
