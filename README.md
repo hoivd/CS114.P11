@@ -9,8 +9,8 @@
 <h1 align="center"><b>CS114.L21 - MÁY HỌC</b></h1>
 
 ## Thông tin sinh viên
-* **Họ và tên:** Thạch Minh Hoàng
-* **Mssv:** 22520477
+* **Họ và tên:** Đặng Vĩnh Hội
+* **Mssv:** 22520490
 * **Môn học:** Máy học - Machine Learning
 * **Năm học:** 2024 - 2025
 
