@@ -10,7 +10,7 @@
 
 ## Thông tin sinh viên
 * **Họ và tên:** Đặng Vĩnh Hội
-* **Mssv:** 22520490
+* **MSSV:** 22520490
 * **Môn học:** Máy học - Machine Learning
 * **Năm học:** 2024 - 2025
 
