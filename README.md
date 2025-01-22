@@ -7,6 +7,7 @@
 
 <!-- Title -->
 <h1 align="center"><b>CS114.P11 - MÁY HỌC</b></h1>
+<h3 align="center"><b>Năm học: 2023 - 2024</b></h3>
 
 ## Thông tin sinh viên
 * ***Sinh viên 1:***
